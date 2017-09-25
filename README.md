@@ -1,2 +1,2 @@
-# songlist
-python project
+# songify
+Let's users to upload, store, play and search the music
